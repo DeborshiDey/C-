@@ -1,0 +1,9 @@
+name = input('Enter your name: ')
+age = input("Enter your age: ")
+gender = input("Enter your gender(M/F/O): ")
+weight = input("Enter your weight(kgs): ")
+
+print("Your name is: ",name)
+print("Your age is: ",age)
+print("Your gender is: ",gender)
+print("Your weight is: ",weight,"kgs")
