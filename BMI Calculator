@@ -2,7 +2,6 @@ name = input("Enter your name: ")
 
 weight = float(input("Enter your weight in kilograms: "))
 
-# Prompt the user to enter height in feet and inches
 feet = int(input("Enter your height in feet: "))
 inches = float(input("Enter the remaining inches: "))
 
